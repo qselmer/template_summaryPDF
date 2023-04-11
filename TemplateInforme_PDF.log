@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.20)  11 APR 2023 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.20)  11 APR 2023 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,7 +329,32 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count282
 
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
-)) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+))
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.s
+ty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count283
+\c@Blindtext=\count284
+\c@blind@countparstart=\count285
+\blind@countxx=\count286
+\blindtext@numBlindtext=\count287
+\blind@countyy=\count288
+\c@blindlist=\count289
+\c@blindlistlevel=\count290
+\c@blindlist@level=\count291
+\blind@listitem=\count292
+\c@blind@listcount=\count293
+\c@blind@levelcount=\count294
+\blind@mathformula=\count295
+\blind@Mathformula=\count296
+\c@blind@randomcount=\count297
+\c@blind@randommax=\count298
+\c@blind@pangramcount=\count299
+\c@blind@pangrammax=\count300
+) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip62
 \fb@frw=\dimen162
@@ -364,27 +389,178 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 )
 \everycr=\toks32
 \minrowclearance=\skip65
-\rownum=\count283
+\rownum=\count301
 ) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.st
 y
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip66
 \@affilsep=\skip67
-\c@Maxaffil=\count284
-\c@authors=\count285
-\c@affil=\count286
+\c@Maxaffil=\count302
+\c@authors=\count303
+\c@affil=\count304
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count305
+Package zref Info: New property: abspage on input line 65.
+)
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.s
+ty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip68
+\c@mdf@globalstyle@cnt=\count306
+\mdf@skipabove@length=\skip69
+\mdf@skipbelow@length=\skip70
+\mdf@leftmargin@length=\skip71
+\mdf@rightmargin@length=\skip72
+\mdf@innerleftmargin@length=\skip73
+\mdf@innerrightmargin@length=\skip74
+\mdf@innertopmargin@length=\skip75
+\mdf@innerbottommargin@length=\skip76
+\mdf@splittopskip@length=\skip77
+\mdf@splitbottomskip@length=\skip78
+\mdf@outermargin@length=\skip79
+\mdf@innermargin@length=\skip80
+\mdf@linewidth@length=\skip81
+\mdf@innerlinewidth@length=\skip82
+\mdf@middlelinewidth@length=\skip83
+\mdf@outerlinewidth@length=\skip84
+\mdf@roundcorner@length=\skip85
+\mdf@footenotedistance@length=\skip86
+\mdf@userdefinedwidth@length=\skip87
+\mdf@needspace@length=\skip88
+\mdf@frametitleaboveskip@length=\skip89
+\mdf@frametitlebelowskip@length=\skip90
+\mdf@frametitlerulewidth@length=\skip91
+\mdf@frametitleleftmargin@length=\skip92
+\mdf@frametitlerightmargin@length=\skip93
+\mdf@shadowsize@length=\skip94
+\mdf@extratopheight@length=\skip95
+\mdf@subtitleabovelinewidth@length=\skip96
+\mdf@subtitlebelowlinewidth@length=\skip97
+\mdf@subtitleaboveskip@length=\skip98
+\mdf@subtitlebelowskip@length=\skip99
+\mdf@subtitleinneraboveskip@length=\skip100
+\mdf@subtitleinnerbelowskip@length=\skip101
+\mdf@subsubtitleabovelinewidth@length=\skip102
+\mdf@subsubtitlebelowlinewidth@length=\skip103
+\mdf@subsubtitleaboveskip@length=\skip104
+\mdf@subsubtitlebelowskip@length=\skip105
+\mdf@subsubtitleinneraboveskip@length=\skip106
+\mdf@subsubtitleinnerbelowskip@length=\skip107
+
+(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0.m
+df
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box59
+\mdf@footnotebox=\box60
+\mdf@splitbox@one=\box61
+\mdf@splitbox@two=\box62
+\mdf@splitbox@save=\box63
+\mdfsplitboxwidth=\skip108
+\mdfsplitboxtotalwidth=\skip109
+\mdfsplitboxheight=\skip110
+\mdfsplitboxdepth=\skip111
+\mdfsplitboxtotalheight=\skip112
+\mdfframetitleboxwidth=\skip113
+\mdfframetitleboxtotalwidth=\skip114
+\mdfframetitleboxheight=\skip115
+\mdfframetitleboxdepth=\skip116
+\mdfframetitleboxtotalheight=\skip117
+\mdffootnoteboxwidth=\skip118
+\mdffootnoteboxtotalwidth=\skip119
+\mdffootnoteboxheight=\skip120
+\mdffootnoteboxdepth=\skip121
+\mdffootnoteboxtotalheight=\skip122
+\mdftotallinewidth=\skip123
+\mdfboundingboxwidth=\skip124
+\mdfboundingboxtotalwidth=\skip125
+\mdfboundingboxheight=\skip126
+\mdfboundingboxdepth=\skip127
+\mdfboundingboxtotalheight=\skip128
+\mdf@freevspace@length=\skip129
+\mdf@horizontalwidthofbox@length=\skip130
+\mdf@verticalmarginwhole@length=\skip131
+\mdf@horizontalspaceofbox=\skip132
+\mdfsubtitleheight=\skip133
+\mdfsubsubtitleheight=\skip134
+\c@mdfcountframes=\count307
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count308
+\c@mdf@env@i=\count309
+\c@mdf@env@ii=\count310
+\c@mdf@zref@counter=\count311
+Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less.
 (fancyhdr)                Please consider using the `twoside' option on input l
-ine 89.
+ine 93.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less.
 (fancyhdr)                Please consider using the `twoside' option on input l
-ine 90.
+ine 94.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 95.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 96.
 
 
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
@@ -393,23 +569,6 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
-(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
 .sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
@@ -419,8 +578,6 @@ Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
 ro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.st
 y
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
@@ -432,11 +589,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 itlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count287
+\c@section@level=\count312
 )
 \@linkdim=\dimen169
-\Hy@linkcounter=\count288
-\Hy@pagecounter=\count289
+\Hy@linkcounter=\count313
+\Hy@pagecounter=\count314
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -445,11 +602,7 @@ Now handling font encoding PD1 ...
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
-ty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count290
+\Hy@SavedSpaceFactor=\count315
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -463,7 +616,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count291
+\c@Hy@tempcnt=\count316
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -478,7 +631,7 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count292
+\Fld@menulength=\count317
 \Field@Width=\dimen171
 \Fld@charsize=\dimen172
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -488,14 +641,9 @@ Package hyperref Info: backreferencing OFF on input line 6042.
 Package hyperref Info: Link coloring OFF on input line 6047.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
-
-(C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count293
-\c@Item=\count294
-\c@Hfootnote=\count295
+\Hy@abspage=\count318
+\c@Item=\count319
+\c@Hfootnote=\count320
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -507,8 +655,9 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count296
-\c@bookmark@seq@number=\count297
+\HyAnn@Count=\count321
+\Fld@listcount=\count322
+\c@bookmark@seq@number=\count323
 
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
 ilecheck.sty
@@ -521,52 +670,52 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip68
+\Hy@SectionHShift=\skip135
 )
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.d
 ef
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count298
+\BKM@id=\count324
 )) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
-7.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
+1.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (TemplateInforme_PDF.aux)
 \openout1 = `TemplateInforme_PDF.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Info: Redefining \microtypecontext on input line 107.
-Package microtype Info: Applying patch `item' on input line 107.
-Package microtype Info: Applying patch `toc' on input line 107.
-Package microtype Info: Applying patch `eqnum' on input line 107.
-Package microtype Info: Applying patch `footnote' on input line 107.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Info: Redefining \microtypecontext on input line 111.
+Package microtype Info: Applying patch `item' on input line 111.
+Package microtype Info: Applying patch `toc' on input line 111.
+Package microtype Info: Applying patch `eqnum' on input line 111.
+Package microtype Info: Applying patch `footnote' on input line 111.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 107.
+LaTeX Info: Redefining \showhyphens on input line 111.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -578,16 +727,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
+\scratchcounter=\count325
 \scratchdimen=\dimen173
-\scratchbox=\box59
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\scratchbox=\box64
+\nofMPsegments=\count326
+\nofMParguments=\count327
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count302
+\MPscratchCnt=\count328
 \MPscratchDim=\dimen174
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
 \everyMPtoPDFconversion=\toks34
 )
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -613,14 +762,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=472.03123pt
-* \textheight=658.0pt
+* \textheight=685.0pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-66.59087pt
-* \headheight=40.0pt
+* \headheight=38.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
-* \footskip=5.0pt
+* \footskip=0.0pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
@@ -634,9 +783,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 107.
+Package hyperref Info: Link coloring OFF on input line 111.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-12.
+17.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cf
@@ -645,27 +794,27 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-12.
+17.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-112.
+117.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-112.
+117.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 112.
+(Font)              <10> on input line 117.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 112.
+(Font)              <7> on input line 117.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 112.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 112
+(Font)              <5> on input line 117.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 117
 .
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -673,7 +822,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 g
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 112
+LaTeX Font Info:    Trying to load font information for U+msb on input line 117
 .
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -682,67 +831,56 @@ g
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 123.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 128.
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-30.
+37.
 (C:\Users\oquispe\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<Figuras/figura1.png, id=3, 610.53094pt x 409.9064pt>
-File: Figuras/figura1.png Graphic file (type png)
-<use Figuras/figura1.png>
-Package pdftex.def Info: Figuras/figura1.png  used on input line 170.
-(pdftex.def)             Requested size: 283.23251pt x 190.16042pt.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 174.
-<logoifop.png, id=4, 225.84375pt x 225.84375pt>
-File: logoifop.png Graphic file (type png)
-<use logoifop.png>
-Package pdftex.def Info: logoifop.png  used on input line 175.
-(pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
+<figuras/figura1.png, id=3, 610.53094pt x 409.9064pt>
+File: figuras/figura1.png Graphic file (type png)
+<use figuras/figura1.png>
+Package pdftex.def Info: figuras/figura1.png  used on input line 177.
+(pdftex.def)             Requested size: 306.82979pt x 206.00346pt.
+<imarpe.png, id=4, 225.84375pt x 225.84375pt>
+File: imarpe.png Graphic file (type png)
+<use imarpe.png>
+Package pdftex.def Info: imarpe.png  used on input line 189.
+(pdftex.def)             Requested size: 56.90533pt x 56.90533pt.
 
-Package fancyhdr Warning: \headheight is too small (40.0pt): 
-(fancyhdr)                Make it at least 50.36052pt, for example:
-(fancyhdr)                \setlength{\headheight}{50.36052pt}.
+Package fancyhdr Warning: \headheight is too small (38.0pt): 
+(fancyhdr)                Make it at least 61.50537pt, for example:
+(fancyhdr)                \setlength{\headheight}{61.50537pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-10.36052pt}.
+(fancyhdr)                \addtolength{\topmargin}{-23.50537pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [1{C:/Users/oquispe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <./logoifop.png> <./Figuras/figura1.png>]
-File: logoifop.png Graphic file (type png)
-<use logoifop.png>
-Package pdftex.def Info: logoifop.png  used on input line 177.
-(pdftex.def)             Requested size: 28.45094pt x 28.45094pt.
-
-Package fancyhdr Warning: \headheight is too small (40.0pt): 
-(fancyhdr)                Make it at least 50.36052pt, for example:
-(fancyhdr)                \setlength{\headheight}{50.36052pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.36052pt}.
-
-[2] (TemplateInforme_PDF.aux) ) 
+ <./imarpe.png> <./figuras/figura1.png>] (TemplateInforme_PDF.aux) ) 
 Here is how much of TeX's memory you used:
- 15667 strings out of 475385
- 259119 string characters out of 2775962
- 739005 words of memory out of 3000000
- 36648 multiletter control sequences out of 15000+600000
- 510889 words of font info for 123 fonts, out of 8000000 for 9000
+ 16710 strings out of 475385
+ 281193 string characters out of 2775962
+ 781589 words of memory out of 3000000
+ 37678 multiletter control sequences out of 15000+600000
+ 507072 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,15n,81p,1779b,466s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/oquispe/AppData/Local/Programs/MiKTeX/
-fonts/enc/dvips/base/8r.enc}{C:/Users/oquispe/AppData/Local/Programs/MiKTeX/fon
-ts/enc/dvips/lm/lm-rm.enc}<C:/Users/oquispe/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/lm/lmr7.pfb><C:/Users/oquispe/AppData/Local/Programs/MiKTeX/fonts
-/type1/urw/helvetic/uhvb8a.pfb><C:/Users/oquispe/AppData/Local/Programs/MiKTeX/
-fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/oquispe/AppData/Local/Programs/M
-iKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/oquispe/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on TemplateInforme_PDF.pdf (2 pages, 348147 bytes).
+ 74i,15n,81p,1399b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/o
+quispe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/oqu
+ispe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/oquisp
+e/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/oquisp
+e/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/o
+quispe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/U
+sers/oquispe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on TemplateInforme_PDF.pdf (1 page, 340619 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 38947 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 54 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 34851 words of extra memory for PDF output out of 35830 (max. 10000000)
 

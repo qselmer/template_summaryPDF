@@ -12,67 +12,77 @@ header-includes:
 - \usepackage{geometry}
 - \usepackage{helvet}
 - \usepackage{lipsum}
+- \usepackage{graphicx}
+- \usepackage{blindtext}
 - \usepackage{framed}
 - \usepackage{fancybox}
 - \usepackage{color}
 - \usepackage{xcolor,colortbl}
 - \usepackage{authblk}
+- \usepackage{mdframed}
 - \usepackage{xcolor}
 - \definecolor{shadecolor}{RGB}{220,218,218} 
+- \definecolor{shadec}{RGB}{0,204,204}
 - \definecolor{Gray}{gray}{0.85}
-- \newcolumntype{a}{>{\columncolor{Gray}}c}
+- \newcolumntype{a}{>{\columncolor{shadec}}c}
 - \pagestyle{fancy}
 - \geometry{top=1.5cm, bottom=1cm, left=2.5cm, right=2.5cm}
 - \renewcommand{\familydefault}{\sfdefault}
 - \newcommand{\sietepuntos}{\fontsize{7pt}{\baselineskip}\selectfont} # tamaños de letra
 - \newcommand{\cincopuntos}{\fontsize{5pt}{\baselineskip}\selectfont} # tamaños de letra
 - \addtolength{\headheight}{2.5\baselineskip}
-- \setlength{\headheight}{40pt}
-- \setlength{\footskip}{5pt}
-- \setlength{\textheight}{658pt}
-- \fancyhead[RO,RE]{\includegraphics[height=1.0cm]{logoifop.png}\\ \cincopuntos INSTITUTO DEL MAR DEL PERU\\ \vspace{-0.2 cm} AREA FUNCIONAL DE DINAMICA POBLACIONAL Y EVALUACION DE RECURSOS PELAGICOS}
-- \fancyhead[LO,LE]{ }
+- \setlength{\headheight}{38pt}
+- \setlength{\footskip}{0pt}
+- \setlength{\textheight}{685pt}
+- \fancyhead[RO,RE]{\\ \includegraphics[height=2cm]{imarpe.png}}
+- \fancyhead[LO,LE]{\\ \sietepuntos INSTITUTO DEL MAR DEL PERU\\ \vspace{-0.1 cm} AREA FUNCIONAL DE DINAMICA POBLACIONAL Y EVALUACION DE RECURSOS PELAGICOS }
 #- \fancyhead[RO,RE]{ }
-- \renewcommand{\headrulewidth}{0.5pt}
-- \fancyfoot[C]{ \\ \vspace{-0.2cm} --------------------------------------------------------------------------------------------------------------------------------------------- \\ \vspace{-0.2cm} \cincopuntos 2023 , “Año de la unidad, la paz y el desarrollo”}
+#- \renewcommand{\headrulewidth}{0.5pt}
+- \fancyfoot[CO,CE]{}
+- \fancyfoot[RO,RE]{ \\ \vspace{-0.2cm} --------------------------------------------------------------------------------------------------------------------------------------------- \\ \vspace{-0.1cm} \sietepuntos  2023 “AÑO DE LA UNIDAD, LA PAZ Y EL DESARROLLO"}
 ---
 
 \pagebreak
 
+```{=tex}
+
 \begin{table}
+
 \begin{tabular}{|c | a | c | c | c| c|}
-\hline
 INICIACION & PLANIFICACION & EJECUCION & SyC & PyD & CIERRE 
-\\ \hline
 \end{tabular}
 \end{table}
+```
+\vspace{0.2cm}
+## Respuesta del Stock Norte - Centro de la anchoveta peruana (\textit{Engraulis ringens}) a los cambios en las presiones naturales y la pesca
+\vspace{0.05cm}
+AFDPERP$^1$ & LMOECC$^2$
+\vspace{0.2cm}
 
-## Respuesta de los indicadores de estado del Stock Norte - Centro de la anchoveta peruana (\textit{Engraulis ringens}) a los cambios en las presiones naturales y antropogénicas
-
-Elmer Quispe$^1$ \and Author Two$^2$
-
-\begin{shaded} 
+```{=tex}
+\begin{mdframed}[backgroundcolor=shadecolor, linecolor=shadecolor] 
 \textbf{Lo más destacado}
 \begin{itemize}
-\item  Relación presión-estado que afecta los atributos del stock Norte-Centro de la anchoveta
-\item Identificar puntos críticos en los indicadores de presión que afectan su estado
+\item  Los puntos biológicos de referencia pueden justificarse en la identificación de umbrales entre la relación de indicadores de presión-estado.
+\item Tendencias, relaciones y umbrales en la respuesta de la anchoveta a las presiones ambientales y la pesca para mejorar el conocimiento sobre el recurso
 \end{itemize}
-\end{shaded}
+ \end{mdframed}
+```
+## Resumen
 
-## Resumen 
-En una gestión basada en los ecosistemas marinos, un primer paso es el análisis de los atributos del ecosistema en relación a puntos biológicos de referencia. Un enfoque para definir puntos biológicos de referencia se basa en la identificación de umbrales entre la relación de indicadores de presión e indicadores de estado. En el Ecosistema de la Corriente de Humboldt, la anchoveta es ecológica y económicamente la especie pelágica más importante por su rol en la cadena alimenticia, y porque es base de una de las pesquerías monoespecíficas más grandes. Diferentes métodos son empleados para estimar el tamaño y estructura del Stock Norte-Centro de la anchoveta (unidad poblacional con mayor productividad), con el fin de mantener un nivel adecuado de la población y una pesquería sostenible; sin embargo, poco se sabe sobre la relación presión-estado que afecta los atributos del stock; y menos aún sobre los puntos críticos que cambian su dinámica. Teniendo en cuenta los enlaces de retroalimentación que pueden afectar el tamaño poblacional y su pesquería, este proyecto tiene como objetivo identificar puntos críticos en los indicadores de presión que afectan su estado. El análisis se realizará bajo un marco de Inferencia de Modelos Múltiple, considerado los indicadores más significativos para explicar los cambios en los atributos del Stock. Se espera que las tendencias, relaciones y umbrales en la respuesta de los atributos de la anchoveta a las presiones ambientales, antropogénicas u otros componentes ofrezcan la posibilidad de ampliar el conocimiento sobre el recurso. Este conocimiento podrá ser empleado para diagnosticar cambios y establecer puntos biológicos de referencia, validar los resultados de los métodos tradicionales, bajo un enfoque alternativo, contribuyendo al futuro de la evaluación de stocks, y en última instancia a una mejor gestión del recurso.
+En una gestión basada en los ecosistemas marinos, un primer paso es el análisis de los atributos en relación a puntos biológicos de referencia. Un enfoque para definir puntos biológicos de referencia se basa en la identificación de umbrales entre la relación de indicadores de presión e indicadores de estado. En el Ecosistema de la Corriente de Humboldt, la anchoveta es ecológica y económicamente la especie pelágica más importante por su rol en la cadena alimenticia, y porque es base de una de las pesquerías monoespecíficas más grandes, diferentes métodos son empleados para estimar el tamaño y estructura del Stock Norte-Centro de la anchoveta (unidad poblacional con mayor productividad), con el fin de mantener un nivel adecuado de la población y una pesquería sostenible; sin embargo, poco se sabe sobre la relación presión-estado que afecta los atributos del stock; y menos aún sobre los puntos críticos que cambian su dinámica. Teniendo en cuenta los enlaces de retroalimentación que pueden afectar el tamaño poblacional y su pesquería, este proyecto tiene como objetivo identificar puntos críticos en los indicadores de presión que afectan su estado. El análisis se realizará bajo un marco de Inferencia de Modelos Múltiple, considerado los indicadores más significativos para explicar los cambios en los atributos del Stock. Se espera que las tendencias, relaciones y umbrales en la respuesta de los atributos de la anchoveta a las presiones ambientales, antropogénicas u otros componentes ofrezcan la posibilidad de ampliar el conocimiento sobre el recurso. Este conocimiento podrá ser empleado para diagnosticar cambios y establecer puntos biológicos de referencia, y validar resultados de los métodos tradicionales, bajo un enfoque alternativo, contribuyendo al futuro de la evaluación de stocks, y en última instancia a una mejor gestión del recurso.
 
-## Resumen gráfico
+\vspace{0.1cm}
 ```{=tex}
-\begin{center}
-\includegraphics[width=0.6\textwidth]{Figuras/figura1.png}
-\end{center}
+\begin{figure}%[!thb]
+\centering
+\includegraphics[width=0.65\textwidth]{figuras/figura1.png}
+\end{figure}
 ```
 
-##Palabras claves: 
-\textit{ANCHOVETA, INDICADORES, PRESION-ESTADO, PUNTOS CRITICOS, STOCK NORTE-CENTRO}
+\vspace{-0.5cm}
+## Palabras claves:
+
+anchoveta, stock norte-centro, presión-estado, puntos críticos, indicadores 
 
 \pagebreak
-
-
-

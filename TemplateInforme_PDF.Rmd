@@ -64,7 +64,7 @@ AFDPERP$^1$ & LMOECC$^2$
 \textbf{Lo más destacado}
 \begin{itemize}
 \item  Los puntos biológicos de referencia pueden justificarse en la identificación de umbrales entre la relación de indicadores de presión-estado.
-\item La identificación de tendencias, relaciones y umbrales en la respuesta de la anchoveta a las presiones ambientales y la pesca aumentan el conocimiento sobre el recurso
+\item La identificación de tendencias, relaciones y umbrales en la respuesta de la anchoveta a las presiones ambientales y la pesca aumentarían el conocimiento sobre el recurso.
 \end{itemize}
  \end{mdframed}
 ```

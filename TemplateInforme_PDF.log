@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.20)  11 APR 2023 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.20)  11 APR 2023 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -864,11 +864,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
  <./imarpe.png> <./figuras/figura1.png>] (TemplateInforme_PDF.aux) ) 
 Here is how much of TeX's memory you used:
- 16710 strings out of 475385
- 281193 string characters out of 2775962
+ 16707 strings out of 475385
+ 281166 string characters out of 2775962
  781589 words of memory out of 3000000
  37678 multiletter control sequences out of 15000+600000
- 507072 words of font info for 113 fonts, out of 8000000 for 9000
+ 506947 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,15n,81p,1399b,469s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/o
@@ -878,7 +878,7 @@ e/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/oquisp
 e/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/o
 quispe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/U
 sers/oquispe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on TemplateInforme_PDF.pdf (1 page, 340619 bytes).
+Output written on TemplateInforme_PDF.pdf (1 page, 340610 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
